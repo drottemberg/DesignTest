@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  DesignTest
-//
-//  Created by Sargis on 3/18/19.
-//  Copyright © 2019 Sargis. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
